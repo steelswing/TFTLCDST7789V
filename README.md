@@ -1,5 +1,5 @@
 # TFTLCDST7789V
-Arduino TFT LCD ST7789V 24pin very lightweight high level api
+Arduino nano TFT LCD ST7789V 24pin very lightweight high level api (software "driver" for using LCD to use directly)
 
 | Tables        | Are           | 
 | ------------- | -------------| 
@@ -47,3 +47,8 @@ void loop() {
     }
 }
 ```
+#### example work
+![](example.png)
+#
+![](pins.jpg)
+# 
