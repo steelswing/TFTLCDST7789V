@@ -6,6 +6,7 @@ Arduino nano TFT LCD ST7789V 24pin very lightweight high level api (software "dr
 | Controller      | ST7789V      | 
 | Interface |MCU   8Bit,FPC 24PIN,Pitch:1.0mm| 
 
+ 
 
 # Example
 ```cpp
@@ -51,4 +52,8 @@ void loop() {
 ![](example.png)
 #
 ![](pins.jpg)
-# 
+
+A step-down converter 5v -> 2.8 or 3.3v is required for power supply
+
+## Circuit
+![](circuit.png)
